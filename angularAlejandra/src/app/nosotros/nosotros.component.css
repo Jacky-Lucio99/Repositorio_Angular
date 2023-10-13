@@ -1,0 +1,13 @@
+body {
+    font-family: "font-family: 'Font Awesome', sans-serif;"
+    
+}
+header {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    background-color: #ea00ff; 
+    color: #fff; 
+}
+
